@@ -1,0 +1,12 @@
+SeeSea/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/seesea/
+│   │   │   │   └── MainActivity.kt   (código abaixo)
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml  (código abaixo)
+│   │   │   │   └── ...
+│   │   │   └── AndroidManifest.xml
+│   └── build.gradle
