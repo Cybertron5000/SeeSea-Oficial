@@ -1,0 +1,13 @@
+dependencies {
+    // OpenStreetMap/OpenSeaMap
+    implementation 'org.osmdroid:osmdroid-android:6.1.13'
+    
+    // Google Location Services
+    implementation 'com.google.android.gms:play-services-location:20.0.0'
+    
+    // Sensor de Bússola
+    implementation 'com.github.ticofab:android-gpx-parser:2.2.0'
+    
+    // Formato GPX para exportar rotas
+    implementation 'io.jenetics:jpx:2.2.0'
+}
